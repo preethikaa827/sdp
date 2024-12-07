@@ -1,5 +1,5 @@
 
-#✨ **GPT-2 Text Generation Playground**
+#✨ **Automated Content Generation**
 This project demonstrates how to use pre-trained transformer models to generate coherent and creative text using Python and the transformers library. It's a fun and easy way to explore the power of AI in text generation!
 
 🚀 **Features**
